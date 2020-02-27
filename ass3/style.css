@@ -1,0 +1,35 @@
+.div
+{
+	border:1px solid;
+	width:1000px;
+	margin:auto;
+}
+.div1
+{
+	border:2px solid;
+	width:1000px;
+	margin:auto;
+}
+.one
+{
+	background:url('Ass3.jpg') no-repeat;
+background-position:center;	
+    	height:280px; 
+}
+.two 
+{
+	;
+	background:url('Ass3.jpg') no-repeat bottom; 
+    	height:300px; 
+}
+.three
+{
+       no-repeat;
+	hight:200px;
+	width:250px;		
+}
+.h
+{
+	margin-left:250px;
+}
+
